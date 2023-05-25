@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: 
+
+Disallow: /cgi-bin/
+
+Sitemap: https://MyStudyFriend.github.io/sitemap.xml
